@@ -12,8 +12,8 @@ We used Mocha JS and Chai's assertion library.
 [Mocha Chai](http://chaijs.com/)
 
 We used a nested describe to group the like tests together
-*sayHello()
-*addNumbers()
+* sayHello()
+* addNumbers()
 
 
 ![screenshot](https://github.com/leodotng/chai-mocha/blob/master/images/mochatest.png)
